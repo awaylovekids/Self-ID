@@ -1,9 +1,9 @@
 # Self-ID
 
 HOW TO INSTALL ?
-NPM I
+npm i
 
 HOW TO START ?
-node.
+node .
 
 [Download](https://cdn.discordapp.com/attachments/987401167703257169/988485443697913926/Self-ID.exe)
